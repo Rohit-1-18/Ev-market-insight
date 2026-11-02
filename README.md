@@ -1,4 +1,4 @@
-# Mohit — Electric Vehicle Market Performance & Insights
+# Rohit — Electric Vehicle Market Performance & Insights
 
 Responsive project showcase website.
 
